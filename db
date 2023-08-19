@@ -1,1 +1,15 @@
-CREATE
+{
+  "todos": [
+    {
+      "date": "2023-08-19T01:29:01.981Z",
+      "content": "Primeira TODO",
+      "done": false
+    },
+    {
+      "date": "2023-08-19T01:29:01.981Z",
+      "content": "Segunda TODO",
+      "done": false
+    }
+  ],
+  "dogs": []
+}
